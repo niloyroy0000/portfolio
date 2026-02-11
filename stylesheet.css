@@ -56,7 +56,7 @@ body {
     width: 100%;
     justify-content: space-between;
     height: 100vh;
-    background: url("wallpaper.png") no-repeat center;
+    background: url("images/own.jpegimages/own.jpeg") no-repeat center;
     background-size: cover;
     background-position: center;
     display: flex;
@@ -186,7 +186,7 @@ body {
     font-size: 20px;
     line-height: 1.4;
     margin-bottom: 4rem;
-    
+
 }
 
 
